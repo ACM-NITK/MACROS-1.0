@@ -1,6 +1,6 @@
 # MACROS 1.0
 ---
-#### An initiative to help members explore the various domains in the field of computer science through a series of curated tasks.
+#### An initiative to help members explore the various domains in computer science through a series of curated tasks.
 ---
 #### How to participate? 
 - Every 3/4 weeks a task will be designed and associated repo will be created. This page will serve as an index for the same and links to the repositories can be found here. 
