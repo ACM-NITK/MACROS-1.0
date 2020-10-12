@@ -1,5 +1,4 @@
 # MACROS 1.0
----
 #### An initiative to help members explore the various domains in computer science through a series of curated tasks.
 ---
 #### For participants 
