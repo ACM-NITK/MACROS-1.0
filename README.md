@@ -10,7 +10,7 @@
 - The task will be reviewed and upon satisfactory completion of the preliminary task, the PR will be merged.
 
 #### For mentors
-- Design a suitable task and create a repository (MACROS-1.0-Task_Number) with a README.md containing details of the task. Also provide a bonus task of higher difficulty.
+- Design a suitable task and create a repository (MACROS-1.0-Task_Name) with a README.md containing details of the task. Also provide a bonus task of higher difficulty.
 - Provide useful links which will serve as starting point for complete beginners.
 - Update or create a PR to update this index page.
 - Mention the contact details of the mentor in charge.
