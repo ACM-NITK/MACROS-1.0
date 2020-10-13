@@ -17,6 +17,6 @@
 
 ### Index
 
-| Sl. No | Date | Task Name | Domain | Description | Repository Link |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 13/10/20 | Rubik's Cube Solver | Systems | Implement a Rubik's Cube solver using Parallel Programming | [Link](https://github.com/ACM-NITK/MACROS-1.0-Rubiks-cube-solver) |
+| Sl. No | Date | Task Name | Domain | Description |
+| --- | --- | --- | --- | --- |
+| 1 | 13/10/20 | [Rubik's Cube Solver](https://github.com/ACM-NITK/MACROS-1.0-Rubiks-cube-solver) | Systems | Implement a Rubik's Cube solver using Parallel Programming |
