@@ -20,3 +20,4 @@
 | Sl. No | Date | Task Name | Domain | Description |
 | --- | --- | --- | --- | --- |
 | 1 | 13/10/20 | [Rubik's Cube Solver](https://github.com/ACM-NITK/MACROS-1.0-Rubiks-cube-solver) | Systems | Implement a Rubik's Cube solver using Parallel Programming |
+| 2 | 28/12/20 | [Containerised MVC web app](https://github.com/ACM-NITK/MACROS-1.0-Docker) | Systems | Implement a Containerised MVC web app with the help of Docker |
